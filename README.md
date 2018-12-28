@@ -1,2 +1,2 @@
 # JS-intermediate-calendar
-Web calendar written on JavaScript by Artur Pinkevych
+Web calendar written on JavaScript by @apinkev
